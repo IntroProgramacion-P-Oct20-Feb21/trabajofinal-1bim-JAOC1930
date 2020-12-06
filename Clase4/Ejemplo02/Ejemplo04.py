@@ -1,0 +1,6 @@
+nombre = input("Ingrese su nombre ")
+apellido = input("Ingrese su apellido ")
+ciudad = input("Ingrese nombre de su Ciudad ")
+pais = input("Ingrese el nombre del pais ")
+nacimiento = input("Ingrese año de nacimiento ")
+print("%s\n%s\n%s\n%s\n%s"%(nombre, apellido,ciudad,pais,nacimiento))

@@ -1,0 +1,10 @@
+variable1 =int
+varibale2 = int(10)
+variable3 = float
+variable4 = float(10.2)
+variable5 = ""
+varibale6 = "Hola mundo"
+variable7 = ""
+variable8 = "a"
+variable9 = bool(False)
+variable10 = bool(True)
